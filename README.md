@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## first clone the repo with git clone https://github.com/radamanthiss/beer_bar_front.git
+
 First, run the development server:
 
 ```bash
